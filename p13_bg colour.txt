@@ -1,0 +1,21 @@
+Practical no.1 
+Roll No:9 
+Name:prashant Chaudhari 
+ 
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+<title>prac1</title> 
+</head> 
+<body> 
+<h1> 
+SSBT's Arts Commerce Science College,Bambhori,Jalgaon 
+</h1> 
+<p> 
+Welcome to the world of SSBT <br> 
+FY BCA <br> 
+My Name is prashant . <br> 
+I heartly welcome you all. <br> 
+</p> 
+</body> 
+</html>
